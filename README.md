@@ -2,9 +2,9 @@
 
 This game was developed as part of CS2212 at Western University - Winter 2023-24 by: Atmiya Patel, Ben Santhosh, Hoyeon Luke Jang, Minh Duc Pham, Tony Baocheng Li
 
-Dive into the fun and learning with our educational basketball game designed for elementary students! Imagine combining the excitement of basketball with the challenge of math, where each level brings you five engaging math problems to solve. Players are tasked with aiming and shooting a basketball at the right answer, choosing from three multiple-choice options, each represented by a basketball hoop. But here's the twist: the basketball isn’t steady; it moves from left to right using arrow key, adding a dash of thrill and testing your timing skills along with your math knowledge. 
+Dive into the fun and learning with our educational basketball game designed for elementary students! Imagine combining the excitement of basketball with the challenge of math, where each level brings you five engaging math problems to solve. Players are tasked with aiming and shooting a basketball at the right answer, choosing from three multiple-choice options, each represented by a basketball hoop. But here's the twist: you are totally in control of how many you get right! The ball moves from left to right using your arrow key, adding a dash of thrill and testing your timing skills and your math knowledge. 
 
-As players progress through the game, they journey through five levels for each level crafted to solidify their mathematical understanding while keeping the entertainment alive. The math puzzles get more intriguing as the player moves up in levels, ensuring the brain gets a good workout. Developed using Java and Java Swings, this game is a perfect blend of education and entertainment, tailored to strengthen the foundation of math in a playful, interactive environment. So, lace-up for some basketball action and get ready to shoot some hoops and numbers!
+As players progress through the game, they journey through five levels for each level crafted to solidify their mathematical understanding while keeping the entertainment alive. The math puzzles get more intriguing as the player moves up in levels, ensuring the brain gets a good workout. We have also made it so that the student can always play it with a guarantee of no repetitive questions, and as many times as they want. Developed using Java and Java Swings, this game is a perfect blend of education and entertainment, tailored to strengthen the foundation of math in a playful, interactive environment. So, lace-up for some basketball action and get ready to shoot some hoops and numbers!
 
 ## Required Libraries
 
@@ -13,20 +13,17 @@ Since Java Swing is automatically implemented in Java 19, there are no external 
 
 ## Building(Compiling Math Madness)
 
-1. Download the file and launch the program in the preferred IDE. 
+1. Download the file and launch the program in the preferred IDE.
 2. Then run PlayGame.java
 
 OR
 
-1. Unzip our zip file
-2. Open CMD and change working directory to the unzipped file
-3. Type Java PlayGame.java
+1. Locate the downloaded file in the terminal
+2. Type javac PlayGame.java
+3. Type java PlayGame
 
-## Launching
+You should be good to play!
 
-1. open CMD
-2. go to the unzipped directory
-3. then enter '''java -jar MathMadness.jar'''
 
 ## Playing our game and Credentials for Instructor and Debuggers
 
