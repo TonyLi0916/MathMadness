@@ -1,6 +1,6 @@
 # Math Madness 
 
-This game was developed as part of CS2212 at Western University - Winter 2023-24 by: Atmiya Patel, Ben Santhosh, Hoyeon Luke Jang, Minh Duc Pham, Tony Baocheng Li
+This game was developed as part of CS2212 at Western University - Winter 2023-24 by: **Atmiya Patel, Ben Santhosh, Hoyeon Luke Jang, Minh Duc Pham, Tony Baocheng Li**
 
 ## Gameplay Screenshot
 
