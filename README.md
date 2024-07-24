@@ -11,7 +11,7 @@ Since Java Swing is automatically implemented in Java 19, there are no external 
 
 ## Building(Compiling Math Madness)
 
-1. Unzip our zip file then launch the program in the preferred IDE. 
+1. Download the file and launch the program in the preferred IDE. 
 2. Then run PlayGame.java
 
 OR
