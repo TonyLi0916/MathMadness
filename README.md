@@ -1,5 +1,7 @@
 # Math Madness 
 
+![Screenshot](images/GameplayPicture.png)
+
 This game was developed as part of CS2212 at Western University - Winter 2023-24 by: Atmiya Patel, Ben Santhosh, Hoyeon Luke Jang, Minh Duc Pham, Tony Baocheng Li
 
 Dive into the fun and learning with our educational basketball game designed for elementary students! Imagine combining the excitement of basketball with the challenge of math, where each level brings you five engaging math problems to solve. Players are tasked with aiming and shooting a basketball at the right answer, choosing from three multiple-choice options, each represented by a basketball hoop. But here's the twist: you are totally in control of how many you get right! The ball moves from left to right using your arrow key, adding a dash of thrill and testing your timing skills and your math knowledge. 
